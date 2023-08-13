@@ -24,7 +24,7 @@ This project is a simple static page with a QR code.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [qrcode-frontend-mentor-idfkmtdgf-rainaranm.vercel.app](https://qrcode-frontend-mentor-idfkmtdgf-rainaranm.vercel.app)
 
 
 ### Built with
