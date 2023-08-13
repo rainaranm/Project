@@ -37,7 +37,7 @@ This project is a simple static page with a QR code.
 
 ### What I learned
 
-This challenge helps me to remember how to use HTML5, CSS end Flexbox
+This challenge helped me remember how to use HTML5, CSS end Flexbox
 
 
 ## Author
